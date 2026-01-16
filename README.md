@@ -62,10 +62,10 @@ P4,3,6
 
 Member 1 (Leader):
 - Create and manage GitHub repository
-- Implement FCFS scheduling algorithm (initial version)
+- Implement FCFS scheduling algorithm
 
 Member 2 (Developer):
-- Implement SJF non-preemptive scheduling logic (in progress)
+- Implement SJF non-preemptive scheduling logic 
 - Design CSV input format and sample input file
 
 Member 3 (Tester):

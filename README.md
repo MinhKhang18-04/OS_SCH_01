@@ -60,23 +60,22 @@ P4,3,6
 
 5. Group Members and Task Distribution
 
-Member 1 (Leader):
+Lê Hoàng Minh Khang (Leader):
 - Create and manage GitHub repository
 - Implement FCFS scheduling algorithm
 
-Member 2 (Developer):
+Nguyễn Nhật Toàn (Developer):
 - Implement SJF non-preemptive scheduling logic 
 - Design CSV input format and sample input file
 
-Member 3 (Tester):
+Lương Minh Hiếu (Tester):
 - Test FCFS and SJF results
 - Compare outputs with textbook examples and provide proof of correctness
-
-Member 4 (Designer):
+Lê Thế Huy (Designer):
 - Design console UI mockup
 - Draft Gantt chart visualization concept for CPU scheduling
 
-Member 5 (Writer):
+Phạm Nguyễn Gia Bảo (Writer):
 - Collect GitHub links, commit history, and screenshots
 - Write project progress report for submission
 
